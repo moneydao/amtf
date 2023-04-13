@@ -1,0 +1,2 @@
+# amtf
+AI buddism 
